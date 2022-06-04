@@ -1,0 +1,2 @@
+# vantage-page
+page vantage
